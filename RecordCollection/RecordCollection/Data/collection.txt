@@ -1,0 +1,11 @@
+0|Awaken, My Love!|Childish Gambino|2017|Glassnote|17.89
+1|The Dark Side Of The Moon|Pink Floyd|1973|Harvest|20.02
+2|The Wall|Pink Floyd|1969|Harvest|35.00
+3|Random Access Memories|Daft Punk|2013|Columbia|34.98
+4|Houses Of The Holy|Led Zeppelin|1973|Atlantic|10.00
+5|Physical Graffiti|Led Zeppelin|1975|Atlantic|15.00
+6|Head Hunters|Herbie Hancock|1973|Columbia|1.00
+7|Can't Buy A Thrill|Steely Dan|1972|ABC Records|7.00
+8|Aja|Steely Dan|1977|ABC Records|5.00
+9|Gaucho|Steely Dan|1980|MCA Records|5.00
+10|No Guts, No Glory|Moe.|2014|Sugar Hill Records|19.00
